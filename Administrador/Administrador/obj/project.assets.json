@@ -4035,11 +4035,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor\\Documents\\Igor Projects\\Administrador\\Administrador\\Administrador.csproj",
+      "projectUniqueName": "C:\\Users\\Igor\\Documents\\Igor Projects\\PhoneBook\\Administrador\\Administrador\\Administrador.csproj",
       "projectName": "Administrador",
-      "projectPath": "C:\\Users\\Igor\\Documents\\Igor Projects\\Administrador\\Administrador\\Administrador.csproj",
+      "projectPath": "C:\\Users\\Igor\\Documents\\Igor Projects\\PhoneBook\\Administrador\\Administrador\\Administrador.csproj",
       "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Igor\\Documents\\Igor Projects\\Administrador\\Administrador\\obj\\",
+      "outputPath": "C:\\Users\\Igor\\Documents\\Igor Projects\\PhoneBook\\Administrador\\Administrador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",

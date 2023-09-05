@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iDEUHgBNS85Y0tvuaFvPqnEo8kCU+Y18nkA3wGYSInhOXisLrjRRKbvX+ZKdRwCZ/mYiXR/oxFAF/VyWG2rQ/w==",
+  "dgSpecHash": "CMwDErOU5tReJ8cSftPrR7yDrcv+5lfeMm/gyNDSl5wrOWGmSqjPjaKOsjjC00mdhlC3969r0oh+IvjIY48vbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Igor\\Documents\\Igor Projects\\Administrador\\Administrador\\Administrador.csproj",
+  "projectFilePath": "C:\\Users\\Igor\\Documents\\Igor Projects\\PhoneBook\\Administrador\\Administrador\\Administrador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Igor\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
