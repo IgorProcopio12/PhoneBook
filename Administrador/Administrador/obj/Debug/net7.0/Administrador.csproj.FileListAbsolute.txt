@@ -806,3 +806,4 @@ C:\Users\Igor\Documents\Igor Projects\PhoneBook\Administrador\Administrador\obj\
 C:\Users\Igor\Documents\Igor Projects\PhoneBook\Administrador\Administrador\obj\Debug\net7.0\Administrador.pdb
 C:\Users\Igor\Documents\Igor Projects\PhoneBook\Administrador\Administrador\obj\Debug\net7.0\Administrador.genruntimeconfig.cache
 C:\Users\Igor\Documents\Igor Projects\PhoneBook\Administrador\Administrador\obj\Debug\net7.0\ref\Administrador.dll
+C:\Users\Igor\Documents\Igor Projects\PhoneBook\Administrador\Administrador\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css

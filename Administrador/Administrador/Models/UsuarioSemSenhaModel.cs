@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Administrador.Models
 {
-    public class UsuarioModel
+    public class UsuarioSemSenhaModel
     {
         public int Id {  get; set; }
         [Required(ErrorMessage = "Digite o Nome do Usuário!")]
@@ -15,15 +15,6 @@ namespace Administrador.Models
         public required string Email { get; set; }
         [Required(ErrorMessage = "Informe o perfil do Usuário")]
         public required PerfilEnum? Perfil { get; set; }
-        
-        public string? Senha { get; set; }
-        public DateTime? DataCadastro { get; set; }
         public DateTime? DataAlteracao { get; set; }
-
-        public bool ValidaSenha(string senha)
-        {
-            return Senha == senha;
-        }
-
     }
 }

@@ -36,6 +36,11 @@ namespace Administrador.Repositorio
             return usuarioDB;
         }
 
+        public UsuarioModel BuscarLogin(string login)
+        {
+            return _context.Usuarios.FirstOrDefault(x => x.Login.ToUpper() == login.ToUpper());
+        }
+
         public List<UsuarioModel> BuscarTodos()
         {
             return _context.Usuarios.ToList();
